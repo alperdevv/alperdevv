@@ -1,6 +1,5 @@
 ### Hi!👋, I'm **Alper 🌙**
 Currently, I am studying computer science and working.
-- 👨🏻‍💻 I’m currently working on [shield.cat](http://shield.cat)
 - 🎓 Learning some **programming languages**
 
 ### 💫 Social networks
