@@ -1,3 +1,5 @@
+# 👋 Hey, I'm David
+
 # 💫 About Me:
 🔭 I'm currently working as a Full Stack Developer<br>🌱 I'm currently learning DevOps and AI integrations<br>👨‍💻 I build web applications end to end, both frontend and backend
 
